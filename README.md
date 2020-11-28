@@ -8,3 +8,5 @@
 4. Create a shortcut 
 5. Right click the shortcut and click properties
 6. Edit the Target adding "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -File " to the begining (without "")
+
+This will allow it to run as admin to write the log file.
