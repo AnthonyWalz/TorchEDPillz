@@ -1,5 +1,5 @@
-# TorchEDPillz
-![TorchEDPillz](http://url/to/img.png)
+# Torch ED Pillz
+![Torch ED Pillz](https://github.com/AnthonyWalz/TorchEDPillz/blob/main/TorchEDPillz.PNG)
 ## Instructions
 
 1. Add TorchEDPillz.ps1 to your computer
