@@ -1,4 +1,5 @@
 # TorchEDPillz
+![TorchEDPillz](http://url/to/img.png)
 ## Instructions
 
 1. Add TorchEDPillz.ps1 to your computer
