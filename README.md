@@ -1,5 +1,4 @@
 # Torch ED Pillz
-![Torch ED Pillz](https://github.com/AnthonyWalz/TorchEDPillz/blob/main/TorchEDPillz.PNG)
 ## Instructions
 
 1. Add TorchEDPillz.ps1 to your computer
@@ -10,3 +9,5 @@
 6. Edit the Target adding "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -File " to the begining (without "")
 
 This will allow it to run as admin to write the log file.
+
+![Torch ED Pillz](https://github.com/AnthonyWalz/TorchEDPillz/blob/main/TorchEDPillz.PNG)
